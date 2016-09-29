@@ -1,7 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1474685919931" ID="ID_229858444" MODIFIED="1474685955083" TEXT="&#x8be6;&#x60c5;&#x9875;&#x8bbe;&#x8ba1;&#x539f;&#x7406;&#x53ca;&#x90e8;&#x5206;&#x5546;&#x54c1;&#x8be6;&#x60c5;&#x8bbe;&#x8ba1;">
-<node CREATED="1474687954508" HGAP="22" ID="ID_591548315" MODIFIED="1474688802034" POSITION="right" TEXT="&#x4fc3;&#x6210;&#x8d2d;&#x4e70;" VSHIFT="-68">
+<node CREATED="1474687954508" HGAP="177" ID="ID_591548315" MODIFIED="1474775783957" POSITION="right" TEXT="&#x4fc3;&#x6210;&#x8d2d;&#x4e70;" VSHIFT="-109">
+<node CREATED="1474775903813" ID="ID_1247703358" MODIFIED="1474775909163" TEXT="&#x2460;&#x5f15;&#x8d77;&#x5174;&#x8da3;&#x2461;&#x6fc0;&#x53d1;&#x6f5c;&#x5728;&#x9700;&#x6c42;&#x2462;&#x83b7;&#x53d6;&#x4e70;&#x5bb6;&#x4fe1;&#x4efb;&#x2463;&#x4e3a;&#x4e70;&#x5bb6;&#x505a;&#x51b3;&#x5b9a;&#x3002;"/>
 <node CREATED="1474687979321" ID="ID_1833395662" MODIFIED="1474688077325" TEXT="&#x5438;&#x5f15;&#x6d4f;&#x89c8;"/>
 <node CREATED="1474687984117" ID="ID_660630994" MODIFIED="1474688084150" TEXT="&#x6293;&#x4f4f;&#x75db;&#x70b9;&#x3001;&#x5c55;&#x73b0;&#x4ef7;&#x503c;"/>
 <node CREATED="1474688010008" ID="ID_1481079809" MODIFIED="1474688058144" TEXT="&#x6253;&#x6d88;&#x987e;&#x8651;&#x3001;&#x83b7;&#x53d6;&#x4fe1;&#x4efb;"/>
@@ -18,6 +19,9 @@
 <node CREATED="1474775521946" ID="ID_1005519270" MODIFIED="1474775528027" TEXT="&#x5305;&#x88c5;&#x5c55;&#x793a;&#x56fe;"/>
 <node CREATED="1474775528473" ID="ID_815455327" MODIFIED="1474775553575" TEXT="&#x54c1;&#x724c;&#x5b9e;&#x4f53;&#x5e97;&#x3001;&#x8f66;&#x95f4;&#x5c55;&#x793a;&#x3001;&#x5de5;&#x5382;"/>
 <node CREATED="1474775554235" ID="ID_973525250" MODIFIED="1474775571563" TEXT="&#x7269;&#x6d41;&#x9500;&#x552e;&#x4fdd;&#x8bc1;"/>
+</node>
+<node CREATED="1474775785118" FOLDED="true" ID="ID_1750579860" MODIFIED="1474775911728" POSITION="right" TEXT="&#x624b;&#x673a;&#x7aef;&#x8be6;&#x60c5;&#x9875;">
+<node CREATED="1474775793368" ID="ID_1534958030" MODIFIED="1474775795512" TEXT="&#x8d8a;&#x7b80;&#x5355;&#xff0c;&#x8d8a;&#x65b9;&#x4fbf;&#xff0c;&#x8d8a;&#x771f;&#x5b9e;&#xff0c;&#x8d8a;&#x6709;&#x76ca;&#xff01;"/>
 </node>
 </node>
 </map>
