@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1475684647538" ID="ID_1631092269" MODIFIED="1475684652941" TEXT="&#x706b;&#x9f99;&#x679c;">
+<node CREATED="1475684647538" ID="ID_1631092269" MODIFIED="1475988118118" TEXT="&#x706b;&#x9f99;&#x679c;">
 <node CREATED="1474686139985" HGAP="41" ID="ID_1141466781" MODIFIED="1475644357819" POSITION="left" TEXT="&#x8be6;&#x60c5;&#x9875;&#x7684;&#x6574;&#x4f53;&#x67b6;&#x6784;" VSHIFT="-41">
 <node CREATED="1474775339934" ID="ID_1252852632" MODIFIED="1474775374979" TEXT="&#x6d77;&#x62a5;&#x3001;&#x5173;&#x8054;&#x9500;&#x552e;&#x3001;&#x4f18;&#x60e0;&#x5238;&#x3001;&#x6d3b;&#x52a8;&#x5c55;&#x793a;"/>
 <node CREATED="1474775375936" ID="ID_770795739" MODIFIED="1474775412600" TEXT="&#x5356;&#x70b9;&#x3001;&#x7279;&#x6027;&#x3001;&#x529f;&#x80fd;&#x3001;&#x4f5c;&#x7528;"/>
@@ -66,6 +66,9 @@
 <node CREATED="1475805548468" ID="ID_1111711257" MODIFIED="1475805626314" TEXT="&#x679c;&#x8089;&#x5ae9;&#x6ed1;"/>
 <node CREATED="1475805558956" ID="ID_1199900774" MODIFIED="1475805566397" TEXT="&#x6e05;&#x751c;&#x591a;&#x6c41;"/>
 <node CREATED="1475805566885" ID="ID_1737332877" MODIFIED="1475805722535" TEXT="&#x65b0;&#x9c9c;&#x91c7;&#x6458;"/>
+<node CREATED="1475989565709" ID="ID_1614897091" MODIFIED="1475989575965" TEXT="&#x6e29;&#x99a8;&#x63d0;&#x793a;">
+<node CREATED="1475989576810" ID="ID_1249349226" MODIFIED="1475989789146" TEXT="&#x6c34;&#x679c;&#x662f;&#x65b0;&#x9c9c;&#x91c7;&#x6458;&#x53d1;&#x8d27;&#x3001;&#x4f46;&#x662f;&#x914d;&#x9001;&#x8fc7;&#x7a0b;&#x4e2d;&#x4f1a;&#x6709;&#x6240;&#x635f;&#x8017;&#x3001;&#x5916;&#x8868;&#x7684;&#x53f6;&#x5b50;&#x770b;&#x8d77;&#x6765;&#x53ef;&#x80fd;&#x4f1a;&#x6709;&#x4e9b;&#x8bb8;&#x67af;&#x840e;&#x4f46;&#x5e76;&#x4e0d;&#x5f71;&#x54cd;&#x98df;&#x7528;&#xff0c;&#x4ecb;&#x610f;&#x8005;&#x8bf7;&#x614e;&#x8d2d;"/>
+</node>
 </node>
 <node CREATED="1475682947117" ID="ID_1216497272" MODIFIED="1475807066020" TEXT="&#x7b2c;5&#x7ae0;&#x2014;&#x2014;&#x56e0;&#x4e3a;&#x7528;&#x5fc3;&#x6240;&#x4ee5;&#x653e;&#x5fc3;">
 <node CREATED="1475688605526" ID="ID_1176389139" MODIFIED="1475804795839" TEXT="&#x519c;&#x5bb6;&#x79cd;&#x690d;&#x2014;&#x2014;&#x8425;&#x517b;&#x5065;&#x5eb7;&#x3001;&#x539f;&#x7406;&#x6c61;&#x67d3;"/>
